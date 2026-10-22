@@ -1,0 +1,23 @@
+{
+  "name": "SIROCO Program",
+  "short_name": "SIROCO",
+  "start_url": "/siroco-app/",
+  "display": "standalone",
+  "background_color": "#12100D",
+  "theme_color": "#12100D",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/siroco-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/siroco-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/siroco-app/"
+}
